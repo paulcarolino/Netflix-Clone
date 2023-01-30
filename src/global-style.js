@@ -9,4 +9,5 @@ html, body{
     color: #333333;
     font-size: 16px;
     margin: 0;
+    height: 100%;
 }`;
